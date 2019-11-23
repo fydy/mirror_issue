@@ -1,6 +1,6 @@
 - type: issues
   config:
-    token: YmNiNTY4ZDc3NDFiODVhMDdjNTU3NGY0ZDk1NGRlMjNjMjM2MzVmMA==
+    token: c2b274efe858837531b2a68e61b4a58300b146bb
     login: fydy
     repo: issue-blog
     prefix: prefix_for_filename
@@ -8,7 +8,7 @@
 
 - type: yuque
   config:
-    token: YmNiNTY4ZDc3NDFiODVhMDdjNTU3NGY0ZDk1NGRlMjNjMjM2MzVmMA==
+    token: c2b274efe858837531b2a68e61b4a58300b146bb
     login: fydy
     output: /home/centos/blog/content
 
