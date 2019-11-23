@@ -4,7 +4,7 @@ import (
 	"context"
 	"errors"
 	"fmt"
-	"github.com/befovy/mirror"
+	"github.com/fydy/mirror_issue"
 	"github.com/shurcooL/githubql"
 	"io"
 	"net/http"
