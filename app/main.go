@@ -2,8 +2,8 @@ package main
 
 import (
 	"flag"
-	"github.com/befovy/mirror"
-	_ "github.com/befovy/mirror/issues"
+	"github.com/fydy/issue-blog"
+	_ "github.com/fydy/issue-blog/issues"
 	//"github.com/gohugoio/hugo/commands"
 )
 
