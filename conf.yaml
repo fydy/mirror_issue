@@ -2,7 +2,7 @@
   config:
     token: bfe527fa650a902f7ee526821f7004a82324153e
     login: fydy
-    repo: issue-blog
+    repo: mirror_issue
     prefix: prefix_for_filename
     output: /home/centos/blog/content
 
