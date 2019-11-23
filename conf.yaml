@@ -4,11 +4,11 @@
     login: fydy
     repo: issue-blog
     prefix: prefix_for_filename
-    output: /Users/fydy/blog/content
+    output: /home/centos/blog/content
 
 - type: yuque
   config:
     token: YmNiNTY4ZDc3NDFiODVhMDdjNTU3NGY0ZDk1NGRlMjNjMjM2MzVmMA==
     login: fydy
-    output: /Users/fydy/blog/content
+    output: /home/centos/blog/content
 
