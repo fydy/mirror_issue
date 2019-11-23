@@ -1,4 +1,4 @@
-module github.com/befovy/mirror
+module github.com/fydy/mirror_issue
 
 go 1.12
 
